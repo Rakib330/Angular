@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "Mimos",
+      "price": 0,
+      "category": "Frute",
+      "comment": "One from many",
+      "date": "2021-11-14T18:00:00.000Z",
+      "freshness": "Refurbished",
+      "id": 1
+    },
+    {
+      "productName": "Rukius",
+      "price": 0,
+      "category": "Vegitable",
+      "comment": "Many from Many",
+      "date": "2021-11-13T18:00:00.000Z",
+      "freshness": "Refurbished",
+      "id": 2
+    },
+    {
+      "productName": "Bithunia",
+      "price": 0,
+      "category": "Vegitable",
+      "comment": "Some one for someone",
+      "date": "2015-10-20T18:00:00.000Z",
+      "freshness": "Refurbished",
+      "id": 3
+    },
+    {
+      "productName": "Jharnisus",
+      "price": 0,
+      "category": "Electronics",
+      "comment": "Jharnisus the strom...",
+      "date": "2019-07-09T18:00:00.000Z",
+      "freshness": "Second Hand",
+      "id": 4
+    },
+    {
+      "productName": "Labninun",
+      "price": 0,
+      "category": "Vegitable",
+      "comment": "The beggining times",
+      "date": "2016-12-29T18:00:00.000Z",
+      "freshness": "Second Hand",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
